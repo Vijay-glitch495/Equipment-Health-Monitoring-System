@@ -11,9 +11,9 @@ Classify types of failures using machine learning models.
    The analysis utilizes the Predictive Maintenance Dataset (AI4I 2020), containing sensor readings and failure information from industrial equipment.
 
 ## Project Structure
-   </li>Jupyter Notebook: Contains data preprocessing, exploratory data analysis (EDA), modeling, and evaluation using Python libraries such as pandas, numpy, and scikit-learn.</li>
+   </li> Jupyter Notebook: Contains data preprocessing, exploratory data analysis (EDA), modeling, and evaluation using Python libraries such as pandas, numpy, and scikit-learn. </li>
 
-   </li>CRISP-DM Framework: Organizes the project into phases: business understanding, data understanding, data preparation, modeling, evaluation, and deployment.</li>
+   </li> CRISP-DM Framework: Organizes the project into phases: business understanding, data understanding, data preparation, modeling, evaluation, and deployment. </li>
 
-   </li>Streamlit App: Deploys the trained model for interactive predictions and analysis.</li>
+   </li> Streamlit App: Deploys the trained model for interactive predictions and analysis. </li>
 
